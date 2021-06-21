@@ -1,9 +1,9 @@
-import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
-  const name = 'kasun';
+  const name = "kasun";
   return (
     <div className="App">
       <header className="App-header">
@@ -11,7 +11,7 @@ function App() {
         <p>Eslint, Prettier included</p>
       </header>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
