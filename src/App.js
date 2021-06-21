@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const name = "kasun";
+  // eslint-disable-next-line no-unused-vars
+  const name = 'kasun';
   return (
     <div className="App">
       <header className="App-header">
